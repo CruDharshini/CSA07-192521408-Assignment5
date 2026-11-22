@@ -1,0 +1,10 @@
+time_of_day,destination,rtt_min_ms,rtt_avg_ms,rtt_max_ms,jitter_ms,packet_loss_percent,traceroute_hops,tcp_mbps,udp_mbps,link_type,notes
+Morning,Server 1,,,,,,,,,,,
+Afternoon,Server 1,,,,,,,,,,,
+Evening,Server 1,,,,,,,,,,,
+Morning,Server 2,,,,,,,,,,,
+Afternoon,Server 2,,,,,,,,,,,
+Evening,Server 2,,,,,,,,,,,
+Morning,Server 3,,,,,,,,,,,
+Afternoon,Server 3,,,,,,,,,,,
+Evening,Server 3,,,,,,,,,,,
